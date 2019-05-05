@@ -4,7 +4,7 @@ A highly accurate machine learning model to predict breast cancer
 - The Model was trained using AWS ML and integrated with Python using Boto AWS API.
 - Used PCA for dimensionality reduction.
 - For installing boto aws api - pip install boto3
-- Create authentication keys using AWS IAM serivce for user.
+- Create authentication keys using AWS IAM service for user.
 - The Notebook consist of-
 1. Data Exploration
 2. Data Preprocessing
